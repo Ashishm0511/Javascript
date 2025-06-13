@@ -6,3 +6,4 @@ function example(){
     }
     console.log(x);
 }
+example();
