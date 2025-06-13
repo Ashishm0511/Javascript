@@ -1,4 +1,4 @@
-function examp(){
+function example(){
     var x= 1;
     if (true){
         var x = 2;
