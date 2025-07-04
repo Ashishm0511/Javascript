@@ -39,5 +39,5 @@ function addAll(...numbers){
 }
 // const ans = addAll(4,5,4);
 // console.log(ans);
-ans=addAll(4,5,4);
+ans=addAll(15,5,4);
 console.log(ans);
